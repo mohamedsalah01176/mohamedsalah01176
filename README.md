@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ecommerce](https://ecommerce-mu-smoky-40.vercel.app/)
+- 🔭 I’m currently working on Information Technology Institute
 
-- 🌱 I’m currently learning **frontend track**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-opal-nine-64.vercel.app/](https://portifolio-opal-nine-64.vercel.app/)
 
