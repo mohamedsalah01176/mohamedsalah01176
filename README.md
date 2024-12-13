@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **m481626982gmail.com**
 
-- 📄 Know about my experiences [https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1rAb8oHLzezMecyher_vdJvrYKkrTsGoT%2Fedit%3Fusp%3Ddrivesdk%26ouid%3D108174421756566920555%26rtpof%3Dtrue%26sd%3Dtrue%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2fnZ832ITQP-XJ9xncxKwEJXRxtHpaF0uXgOtTdpTamjLwiBcduKfjL8A_aem_KuenV4fIljxIY3SvuTIRsw&h=AT0bS2GgJOcFdiH3mc6zSYZsHDxCD2CiX3dGSuw-tnrhofGBoackdVx8mN_hSLt0qBY33VCBuAuz2x59OtlYAMSsohy9AOqgiCQI5Qaboy_StbJqf1MVuvLLUaiOOwBcAjGxSw](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1rAb8oHLzezMecyher_vdJvrYKkrTsGoT%2Fedit%3Fusp%3Ddrivesdk%26ouid%3D108174421756566920555%26rtpof%3Dtrue%26sd%3Dtrue%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2fnZ832ITQP-XJ9xncxKwEJXRxtHpaF0uXgOtTdpTamjLwiBcduKfjL8A_aem_KuenV4fIljxIY3SvuTIRsw&h=AT0bS2GgJOcFdiH3mc6zSYZsHDxCD2CiX3dGSuw-tnrhofGBoackdVx8mN_hSLt0qBY33VCBuAuz2x59OtlYAMSsohy9AOqgiCQI5Qaboy_StbJqf1MVuvLLUaiOOwBcAjGxSw)
+- 📄 Know about my experiences CV (https://drive.google.com/file/d/17tjoI6L-cMLMpMIwrz5AXaseQCRwE3qw/view?usp=sharing)
 
 - ⚡ Fun fact **I think am funny**
 
