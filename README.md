@@ -1,11 +1,8 @@
 <!-- [![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)](https://rishavchanda.i) -->
- <div align="center">
-    <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="alt" align="center">
- </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Salah hanafi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" width="400" alt='coding' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="400" alt='coding' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsalah01176&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsalah01176" /> </p>
 
